@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zhenyuchen2000&show_icons=true&locale=en" alt="zhenyuchen2000" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenyuchen2000&show_icons=true&locale=en&layout=compact" alt="zhenyuchen2000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenyuchen2000&show_icons=true&locale=en&layout=compact" alt="zhenyuchen2000" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhenyuchen2000&" alt="zhenyuchen2000" /></p>
