@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **1346094344@qq.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
