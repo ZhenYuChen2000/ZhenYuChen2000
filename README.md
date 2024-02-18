@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm ZhenYuChen2000</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zhenyuchen2000&label=Profile%20views&color=0e75b6&style=flat" alt="zhenyuchen2000" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhenYuChen2000&show_icons=true&theme=dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenYuChen2000&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
