@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm ZhenYuChen2000</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zhenyuchen2000&label=Profile%20views&color=0e75b6&style=flat" alt="zhenyuchen2000" /> </p>
 
